@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889249530601",
+    "project_id": "chatsync-f55f3",
+    "storage_bucket": "chatsync-f55f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889249530601:android:ac23937283dbd56722a678",
+        "android_client_info": {
+          "package_name": "com.madassignment.mad_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1nHXFROrg6xyGa0axjH8BvE3kB2Qj9Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
