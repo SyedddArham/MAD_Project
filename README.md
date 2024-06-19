@@ -23,8 +23,6 @@ Screenshots
 
 ![WhatsApp Image 2024-06-11 at 2 39 45 PM (1)](https://github.com/SyedddArham/Real-Time-Chat-Application/assets/149482468/42c63ee6-4d5c-42ea-8f1f-11e89ea92dc9)
 
-![WhatsApp Image 2024-06-11 at 2 39 46 PM (1)](https://github.com/SyedddArham/Real-Time-Chat-Application/assets/149482468/57ffc931-7ef8-48a7-b144-5c6181efab32)
-
 
 Prerequisites
 Before you begin, ensure you have met the following requirements:
