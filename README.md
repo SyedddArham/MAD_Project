@@ -17,13 +17,13 @@ Direct messages
 
 Screenshots
 
-![image](https://github.com/SyedddArham/Real-Time-Chat-Application/assets/149482468/14cc1c80-6db9-4544-b5a1-852540c94391)
+![WhatsApp Image 2024-06-11 at 2 39 45 PM](https://github.com/SyedddArham/Real-Time-Chat-Application/assets/149482468/f2379e28-1f52-4527-afae-f830807b455c)
 
-![image](https://github.com/SyedddArham/Real-Time-Chat-Application/assets/149482468/74c456d3-b2cc-4350-94da-69e64a574e80)
+![WhatsApp Image 2024-06-11 at 2 39 46 PM](https://github.com/SyedddArham/Real-Time-Chat-Application/assets/149482468/9662baec-c443-4b36-a90c-e82318b43197)
 
-![image](https://github.com/SyedddArham/Real-Time-Chat-Application/assets/149482468/46a9c113-8c37-44e5-9577-5b454c70d821)
+![WhatsApp Image 2024-06-11 at 2 39 45 PM (1)](https://github.com/SyedddArham/Real-Time-Chat-Application/assets/149482468/42c63ee6-4d5c-42ea-8f1f-11e89ea92dc9)
 
-![image](https://github.com/SyedddArham/Real-Time-Chat-Application/assets/149482468/e291797b-627c-46f0-9d50-96995b47405a)
+![WhatsApp Image 2024-06-11 at 2 39 46 PM (1)](https://github.com/SyedddArham/Real-Time-Chat-Application/assets/149482468/57ffc931-7ef8-48a7-b144-5c6181efab32)
 
 
 Prerequisites
